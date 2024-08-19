@@ -1,12 +1,11 @@
 Package: conrad
 Title: Client for the Microsoft's 'Cognitive Services Text to Speech
         REST' API
-Version: 1.0.0
+Version: 1.0.0.1
 Authors@R: c( 
     person("Howard", "Baek", email = "howardbaek.fh@gmail.com", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0009-0000-8942-1618")),
-    person("John", "Muschelli", email = "muschellij2@gmail.com", role = c("aut"),
-           comment = c(ORCID = "0009-0000-8942-1618"))
+    person("John", "Muschelli", email = "muschellij2@gmail.com", role = c("aut"))
            )
 Description: Convert text into synthesized speech and get a list of supported voices for a region. 
     Microsoft's 'Cognitive Services Text to Speech REST' API <https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/rest-text-to-speech?tabs=streaming>  
@@ -22,9 +21,9 @@ Imports: httr2, jsonlite, magrittr
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2023-06-30 20:06:32 UTC; howardbaek
-Author: Howard Baek [aut, cre, cph] (<https://orcid.org/0009-0000-8942-1618>),
-  John Muschelli [aut] (<https://orcid.org/0009-0000-8942-1618>)
-Maintainer: Howard Baek <howardbaek.fh@gmail.com>
+Packaged: 2024-08-19 08:41:54 UTC; hornik
 Repository: CRAN
-Date/Publication: 2023-07-03 16:30:07 UTC
+Date/Publication: 2024-08-19 09:00:56 UTC
+Author: Howard Baek [aut, cre, cph] (<https://orcid.org/0009-0000-8942-1618>),
+  John Muschelli [aut]
+Maintainer: Howard Baek <howardbaek.fh@gmail.com>

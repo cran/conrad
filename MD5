@@ -1,4 +1,4 @@
-3f6236ad260bc05790ab542979782822 *DESCRIPTION
+d8710370f968be10bde9c89565fe6ea4 *DESCRIPTION
 153e234eb21c9a5841ebaf8841d35580 *LICENSE
 f850a4e8286d266fa0998bff7b225ef4 *NAMESPACE
 e6ca982c806fc9f0ae204f6174cb36b2 *NEWS.md
@@ -12,7 +12,7 @@ aceb8ac131db7f5e6ee060cd0ca050b9 *R/ms_create_ssml.R
 b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
 e13dcd7ef40939a8aff4e015f51212f4 *R/utils.R
 4e26c11141ea3c22eedb3533726b575d *README.md
-ec9299b4e74db5ae0f3841679931aa82 *data/region.rda
+10890d2445bffe70b2868f3434da7f1b *data/region.rda
 26019ca6113e94093e4eb38f1b9df445 *man/ms_choose_voice.Rd
 0554939302b422fe5fefdfb7c4e99139 *man/ms_create_ssml.Rd
 62241e5360d4288b8bdd5fd05ed27a4e *man/ms_fetch_key.Rd
